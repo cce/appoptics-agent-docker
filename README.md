@@ -1,3 +1,5 @@
+MOVED TO: https://github.com/solarwinds/solarwinds-snap-agent-docker
+
 # New name, improved agent for metrics + logs!
 
 The former AppOptics agent is now called the [SolarWinds Snap Agent](https://github.com/solarwinds/solarwinds-snap-agent-docker) because it supports [infrastructure and custom metrics as well as log monitoring](https://docs.appoptics.com/kb/host_infrastructure/) with [Loggly](https://www.loggly.com/blog/appoptics-and-loggly-better-together/) and [Papertrail](https://papertrailapp.com/)!
